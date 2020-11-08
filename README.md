@@ -1,4 +1,4 @@
-# yuki-app
+# vue-lists-app
 
 ## Project setup
 ```
