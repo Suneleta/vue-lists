@@ -94,7 +94,7 @@ export default {
   },
   data() {
     return {
-        contactDataList: [],
+        contactDataList:[],
         emptyList: [],
         search: "",
         searchEmpty:""
